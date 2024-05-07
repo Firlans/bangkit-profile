@@ -24,8 +24,6 @@ h3 {
 
 main {
   height: 100vh;
-  /* background: url(./wave.svg) no-repeat center; */
-  /* background-size: cover; */
   display: grid;
   grid-template-areas:
     "photo-profile description"
