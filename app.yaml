@@ -1,0 +1,6 @@
+runtime: none
+
+handlers:
+  url: /static_files
+  static_files: index.html
+  upload: index.html
