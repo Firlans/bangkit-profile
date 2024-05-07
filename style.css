@@ -97,7 +97,7 @@ main .description p{
     display: grid;
     margin: auto;
     padding: 1rem;
-    background: url(./resources/bangkitbg.png) no-repeat;
+    background: url(https://storage.googleapis.com/firlans-bangkit-profile-bucket/bangkitbg.png) no-repeat;
     background-size: cover;
     border: .3rem solid var(--color-1);
     width: 90%;
